@@ -15,6 +15,18 @@ A powerful Python script to analyze and visualize web security testing activity 
 * **Advanced Filtering**: Dynamically exclude requests based on file extensions or the originating Burp tool to reduce noise.
 * **Secure**: Sanitizes all data before rendering it in the HTML report to prevent Cross-Site Scripting (XSS) vulnerabilities from logged request URLs.
 
+## HTML Report
+1. Overview of the requests
+![[Overview]([https://github.com/Jay-Patel-9/LoggerPlusPlus-Analyzer/tree/main/Screenshots/Report-1.png](https://raw.githubusercontent.com/Jay-Patel-9/LoggerPlusPlus-Analyzer/refs/heads/main/Screenshots/Report-1.png))](https://raw.githubusercontent.com/Jay-Patel-9/LoggerPlusPlus-Analyzer/refs/heads/main/Screenshots/Report-1.png)
+2. Request Time Chart
+![Request Time Chart](https://raw.githubusercontent.com/Jay-Patel-9/LoggerPlusPlus-Analyzer/refs/heads/main/Screenshots/Report-2.png)
+3. Request Summary
+![Request Summary](https://raw.githubusercontent.com/Jay-Patel-9/LoggerPlusPlus-Analyzer/refs/heads/main/Screenshots/Report-3.png)
+4. Requests Per Endpoint
+![Requests Per Endpoint](https://raw.githubusercontent.com/Jay-Patel-9/LoggerPlusPlus-Analyzer/refs/heads/main/Screenshots/Report-4.png)
+5. Daily Request Summary
+![Daily Request Summary](https://raw.githubusercontent.com/Jay-Patel-9/LoggerPlusPlus-Analyzer/refs/heads/main/Screenshots/Report-5.png)
+
 ## Requirements
 
 * Python 3.x
